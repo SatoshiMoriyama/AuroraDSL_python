@@ -1,0 +1,10 @@
+[project]
+name = "20250906-dsql"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "boto3>=1.40.25",
+    "psycopg2-binary>=2.9.10",
+]
